@@ -18,11 +18,11 @@ body {
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
-  font-size: 2.4rem;
+  font-size: 1.8rem;
   font-display: swap;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 3.84rem;
+  font-size: 2.88rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -60,9 +60,9 @@ body {
     line-height: calc( 1.4 * (1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.92rem;
-    font-size: calc( 1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
